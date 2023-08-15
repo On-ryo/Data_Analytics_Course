@@ -1,1 +1,1 @@
-# Skolkovo_hack_Catboost_ranking
+# Прикладной анализ данных - Задания
